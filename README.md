@@ -13,7 +13,7 @@ Este repositorio contiene la planificación del Sprint 1, incluyendo:
 - `/backlog`: Historias de usuario
 - `/planning`: Planeación del sprint
 
-Objetivo
+Objetivo:
 Definir y organizar las tareas iniciales del proyecto utilizando metodología ágil.
 
 Autores:
