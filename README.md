@@ -16,7 +16,7 @@ Este repositorio contiene la planificación del Sprint 1, incluyendo:
 Objetivo
 Definir y organizar las tareas iniciales del proyecto utilizando metodología ágil.
 
-Autores 
+Autores:
 Brayan Mosquera,
 Fabian Pined, 
 Jhonatan Gurrute.
