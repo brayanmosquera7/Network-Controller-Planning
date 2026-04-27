@@ -3,18 +3,20 @@
 Proyecto académico de la Universidad del Cauca  
 Asignatura: Informática para Telecomunicaciones  
 
-## 📌 Descripción
+ Descripción
 Este repositorio contiene la planificación del Sprint 1, incluyendo:
 - Product Backlog
 - Sprint Planning
 
-## 📂 Estructura
+ Estructura
 - `/docs`: Documento original
 - `/backlog`: Historias de usuario
 - `/planning`: Planeación del sprint
 
-## 🚀 Objetivo
+Objetivo
 Definir y organizar las tareas iniciales del proyecto utilizando metodología ágil.
 
-## 👨‍💻 Autor
+Autor
 Brayan Mosquera
+Fabian Pineda 
+Jhonatan Gurrute
